@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "179270471020",
+    "firebase_url": "https://amershare-50630.firebaseio.com",
+    "project_id": "amershare-50630",
+    "storage_bucket": "amershare-50630.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179270471020:android:25de765d1d446b957af749",
+        "android_client_info": {
+          "package_name": "com.example.amer_share"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179270471020-vjckj9sdl87qifi2rupb54nromojafd5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FdhzFmbTAV45thX5Cjx6dGdjDR9ah4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179270471020-vjckj9sdl87qifi2rupb54nromojafd5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
